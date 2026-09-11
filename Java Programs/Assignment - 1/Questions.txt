@@ -1,0 +1,5 @@
+1. WAP to enter length, breadth and height of rectangle,square and cube and calculate the volume of them .
+2. WAP to enter temperature in celcius and convert and display it in farhanheit.
+3. WAP to enter 2 integer and swap them using 3rd variable.
+4. WAP to enter 2 integer and swap them using bitwise operator.
+5. WAP to enter 3  sides of a triangle and print the area of the triangle.

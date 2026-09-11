@@ -1,0 +1,5 @@
+1. WAP to calculate the total and percentage of 5 subjects.
+2. WAP to calculate the gross salary using basic salary, HRA(10% of basic), DA(60% of basic).
+3. WAP to calculate electricity bill using unit consumptions. 0-100 : 3rs, 101-500 : 4rs, >500 : 6rs.
+4. WAP to determine weather a number is positive, negative or zero using operators.
+5. WAP to calculate profit and loss percentage.

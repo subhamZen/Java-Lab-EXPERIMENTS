@@ -1,0 +1,25 @@
+1. WAP to sort an integer array:
+Input: [100, 20, 30, 10, 50]
+Output: [10, 20, 30, 50, 100]
+
+2. WAP to calculate the average value of array elements:
+Input: [1, 2, 3, 4, 5]
+Output: The average of array element is 3.
+
+3. WAP to find max. and min. value of an array:
+Input: [25, 94, 56, 25, 36, 56, 77, 18, 29, 49]
+Output:
+Max. value of the array: 94
+Min. value of the array: 18
+
+4. WAP to find duplicate value in an array of integer values:
+Input: [1, 2, 5, 5, 6, 6, 7, 2]
+Output:
+Duplicate element is: 2
+Duplicate element is: 5
+Duplicate element is: 6
+
+5. WAP to find common elements between two arrays (string values):
+Input:
+Array 1: [Python, Java, C++, SQL]
+Array 2: [MySQL, SQL, Oracle, Java]

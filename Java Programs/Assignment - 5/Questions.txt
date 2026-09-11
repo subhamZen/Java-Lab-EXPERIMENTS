@@ -1,0 +1,17 @@
+1. WAP that prints the following pattern:
+
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+2. WAP that calculates the mathematical constant e using the following formula:
+
+e = 1 / 1! + 1 / 2! + 1 / 3! ........ upto 5
+
+3. WAP to sort the elements using bubble sort.
+
+4. WAP to search for an element using binary search.
+
+5. WAP to create and display unique 3-digit numbers using 1, 2, and 3. Also count how many 3-digit numbers are there.

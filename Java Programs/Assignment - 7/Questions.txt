@@ -1,0 +1,10 @@
+1. WAP to create a class called Employee with name, job, and salary as variables. Create a method that calculates and updates the salary according to the number of working days.
+2. WAP to create a class called Student with name, roll no, and course as attributes. Create one method that provides options for courses and another method that displays the name, roll no, and course selected.
+3. WAP to create a static and non-static method, where the static method calculates the area of a rectangle and the non-static method calculates the area of a square.
+4. WAP to overload a method that calculates Simple Interest:
+
+According to time and principal amount provided with a default rate.
+
+According to rate and time provided with a default principal amount.
+
+5. WAP to create a class called Library that has methods to add and remove books from the library.

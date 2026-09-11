@@ -1,0 +1,5 @@
+1. WAJP that read an integer between 100 and 999 and add all the digits in the integer.
+2. WAJP to compute the body mass index (BMI) -> BMI = kg/m*m, kg = weight, m = height in meters.
+3. WAJP to enter the required values and calculate the values of cube and cubeoid.
+4.WAJP to enter a number x and calculate x>>3 and x<<2.
+5.  WAJP to convert minutes into years  and days.

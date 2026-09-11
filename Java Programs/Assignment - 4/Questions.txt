@@ -1,0 +1,9 @@
+1. WAP to solve a quadratic equation (use if, else if and else).
+
+2. WAP that reads two floating-point numbers and tests whether they are the same up to three decimal places.
+
+3. WAP to find the number of days in a month.
+
+4. WAP that takes three numbers from the user and prints the greatest number.
+
+5. WAP that requires the user to enter a single character from the alphabet. Print vowel or consonant, depending on the user's input.
